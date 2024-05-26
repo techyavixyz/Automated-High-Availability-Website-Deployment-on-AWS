@@ -16,4 +16,4 @@ Launch a DB instance in Amazon RDS
 Create an Elastic Beanstalk Environment
 Configure Security Groups and Scaling
 
-![5310721](https://github.com/techyavixyz/Automated-High-Availability-Website-Deployment-on-AWS/assets/99551194/8d37dc7d-581b-4565-9f2b-ed3287f7d172)
+![Add a heading](https://github.com/techyavixyz/Automated-High-Availability-Website-Deployment-on-AWS/assets/99551194/bc689079-651d-45f4-aeae-4b60bc40321c)
